@@ -1,0 +1,235 @@
+body {
+    background-color:#FAF6EB;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.snake {
+    text-align: center;
+}
+
+canvas {
+    background-color: #359144;
+    border: 5px solid black;
+}
+
+main {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.button {
+    padding: .1em;
+    align-content: 100px right;
+    background-color: black;
+    width: 85px;
+    height: 35px;
+}
+
+.search {
+    padding: .1em;
+    align-content: 100px right;
+    background-color: black;
+    width: 35px;
+    height: 35px;
+    float: right;
+}
+
+.register {
+    float: right;
+    padding: .1em;
+    background-color: black;
+}
+
+.login {
+    float: right;
+    padding: .1em;
+    background-color: black;
+}
+
+.restart {
+    float: center;
+    padding: .1em;
+    background-color: black;
+}
+
+footer {
+    background-color: #209BD0;
+    text-align: left;
+    float: center;
+    padding: 1em;
+}
+
+.restart {
+    color: black;
+    font-size: 35;
+    text-align: center;
+    border: 4px solid black;
+    background-color: #209BD0;
+}
+
+.logo {
+    align-content: center;
+}
+
+header {
+    background-color: #209BD0;
+    color: white;
+    font: italic;
+    font-size: 50;
+    height: 100px;
+    padding: .5em;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.user {
+    padding: 1em;
+    align-content: center;
+}
+
+form {
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    padding: .5em
+}
+
+fieldset {
+    padding: .5em;
+    height: 200px;
+}
+
+legend {
+    text-align: left;
+}
+
+#submitbutton {
+    margin: 0 auto;
+}
+
+.game {
+    width: 300px;
+    height: 300px;
+    padding: 3em;
+}
+
+.welcome {
+    padding: .5em;
+}
+
+#breakout {
+    background-color: white;
+    border: 5px solid black;
+}
+
+.pong {
+    background-color: white;
+    border: 5px solid black;
+}
+
+.pongselect {
+    padding: 7em;
+    margin: 0 auto;
+}
+
+.difficultyselect {
+    padding: 7em;
+    margin: 0 auto;
+}
+
+#navbar {
+    background-color: #5E5E5E;
+    height: 35px;
+}
+
+#navbarbutton {
+    color: #FAF6EB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    height: 35px;
+    width: 150px;
+    background-color: #5E5E5E;
+    border: none;
+    cursor: pointer;
+    border-left: 1px solid #FAF6EB;
+    
+}
+
+.drop {
+    float: right;
+}
+
+.droplinks {
+    color: #FAF6EB;
+    display: none;
+    background-color: #5E5E5E;
+    font-size: 16px;
+}
+
+.droplinks a {
+    color: #FAF6EB;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.droplinks a:hover {
+    background-color: #4C4C4C;
+    }
+    
+.drop:hover .droplinks {
+    display: block;
+}
+
+.drop:hover #navbarbutton {
+    background-color: #4C4C4C;
+}
+
+.loginbutton {
+    float: right;
+    font-size: 26px;
+    color: #FAF6EB;
+    text-decoration: none;
+}
+	
+td {
+        font-weight:bold;
+	font-size:17 em;
+	margin-bottom:0.7em; 
+        background-color: #0091B2;
+	font-size: 20px;
+	
+   }
+   
+tr {
+        font-weight:bold;
+	font-size:17 em;
+	margin-bottom:0.7em;
+        background-color: #2DD8FF;
+	
+   }   
+	
+table {
+	color:#FFFFFF;
+	font-size:1em;
+	margin:0 auto;
+	padding: 1.5em;
+	width: 75%;
+	line-height:1.5em; 
+	text-align: center;
+	font-size: 22px;
+}
+
+.admin {
+  display: flex;
+  text-align: center;
+}

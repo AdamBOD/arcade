@@ -1,0 +1,7 @@
+DirectoryIndex index.py
+
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/xd26hahk/public_html/arcade"
+PassengerBaseURI "/arcade"
+PassengerPython "/home/xd26hahk/virtualenv/public__html_arcade/3.3/bin/python3.3"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
